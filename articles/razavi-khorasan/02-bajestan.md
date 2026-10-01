@@ -101,7 +101,7 @@ scope: طبق قواعد ۱۳گانهٔ کارفرما؛ فقط داده‌ها�
 - **دریاچهٔ نمک و درهٔ آهنگ:** از جاذبه‌های طبیعی فهرست‌شدهٔ بجستان.<sup>[۷](https://www.chtn.ir/news/1399052347/)</sup>
 - **پارک ملی بجستان:** بوستان مرکزی شهر با فضای سبز و تفرجگاهی.<sup>[۸](https://gardeshgari724.com/%D8%AC%D8%A7%D9%87%D8%A7%DB%8C-%D8%AF%DB%8C%D8%AF%D9%86%DB%8C-%D8%A8%D8%AC%D8%B3%D8%AA%D8%A7%D9%86)</sup>
 
-**ادامهٔ سفر در استان خراسان رضوی:** [باخرز](/city/bakharz/) · [بردسکن](/city/bardaskan/) · [تایباد](/city/taybad/) · [تربت حیدریه](/city/torbat-heydarieh/)
+**ادامهٔ سفر در استان خراسان رضوی:** [باخرز](/city/bakharz/) · [بردسکن](/city/bardaskan/) · [تایباد](/city/taybad/) · [تربت جام](/city/torbatjam/) · [تربت حیدریه](/city/torbat-heydarieh/)
 
 ## نقشه و لوکیشن
 

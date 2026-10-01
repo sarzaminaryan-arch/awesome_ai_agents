@@ -104,7 +104,7 @@ scope: طبق قواعد ۱۳گانهٔ کارفرما؛ فقط داده‌ها�
 - **روستای پشته و روستاهای ییلاقی:** از روستاهای گردشگری با طبیعت بکر که هر سال عاشقان طبیعت را جذب می‌کند.<sup>[۶](https://www.hamshahrionline.ir/news/493689/)</sup>
 - **درخت نوش کهنسال امامزاده شاهزاده قاسم:** در مشهد ریزه، از جاذبه‌های طبیعی-تاریخی شهرستان.<sup>[۱۱](https://shishdong.com/cities/detail/Taybad)</sup>
 
-**ادامهٔ سفر در استان خراسان رضوی:** [باخرز](/city/bakharz/) · [بجستان](/city/bajestan/) · [بردسکن](/city/bardaskan/) · [تربت حیدریه](/city/torbat-heydarieh/)
+**ادامهٔ سفر در استان خراسان رضوی:** [باخرز](/city/bakharz/) · [بجستان](/city/bajestan/) · [بردسکن](/city/bardaskan/) · [تربت جام](/city/torbatjam/) · [تربت حیدریه](/city/torbat-heydarieh/)
 
 ## نقشه و لوکیشن
 

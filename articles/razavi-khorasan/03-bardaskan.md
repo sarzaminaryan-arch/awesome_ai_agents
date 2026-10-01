@@ -106,7 +106,7 @@ scope: طبق قواعد ۱۳گانهٔ کارفرما؛ فقط داده‌ها�
 - **کلوت شفیع‌آباد و کفه نمکی:** از چشم‌اندازهای کویری شهرستان.<sup>[۶](https://hamgardi.com/fa/TravelGuide/City/134-Bardaskan)</sup><sup>[۷](https://www.uspace.ir/bardaskan/hydrotherapy)</sup>
 - **غار سیر:** دهانهٔ غار حدود ۱۵ متر بالاتر از پای دیواره و حدود ۱۵۰ متر بالاتر از کف دره قرار دارد.<sup>[۹](https://fa.wikipedia.org/wiki/%D8%AC%D8%A7%D8%B0%D8%A8%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%DA%AF%D8%B1%D8%AF%D8%B4%DA%AF%D8%B1%DB%8C_%D8%A7%D8%B3%D8%AA%D8%A7%D9%86_%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86_%D8%B1%D8%B6%D9%88%DB%8C)</sup>
 
-**ادامهٔ سفر در استان خراسان رضوی:** [باخرز](/city/bakharz/) · [بجستان](/city/bajestan/) · [تایباد](/city/taybad/) · [تربت حیدریه](/city/torbat-heydarieh/)
+**ادامهٔ سفر در استان خراسان رضوی:** [باخرز](/city/bakharz/) · [بجستان](/city/bajestan/) · [تایباد](/city/taybad/) · [تربت جام](/city/torbatjam/) · [تربت حیدریه](/city/torbat-heydarieh/)
 
 ## نقشه و لوکیشن
 

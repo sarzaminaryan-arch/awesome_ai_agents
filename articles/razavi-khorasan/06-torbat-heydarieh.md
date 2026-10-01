@@ -3,7 +3,7 @@ province: استان خراسان رضوی
 province_slug: razavi-khorasan
 county: شهرستان تربت حیدریه
 slug: torbat-heydarieh
-order: 05
+order: 06
 focus_keywords: [شهرستان تربت حیدریه, قطب الدین حیدر, زعفران, بایگ, ابریشم]
 image: assets/featured/counties/razavi-khorasan/torbat-heydarieh.webp
 image_alt: نمای سینمایی هوایی از مزار و گنبد فیروزه‌ای قطب الدین حیدر در میان بافت شهری؛ تصویر شاخص شهرستان تربت حیدریه
@@ -107,7 +107,7 @@ scope: طبق قواعد ۱۳گانهٔ کارفرما؛ فقط داده‌ها�
 - **پارک کوهستانی پیشکوه و باغ ملی:** تفرجگاه‌های شهری تربت حیدریه.<sup>[۶](https://www.softinja.com/articles/municipality/torbat-heydariye-saffron-city-of-iran)</sup>
 - **طبیعت روستاهای رخ:** روستای رودخانه، دافی و صنوبر از تفرجگاه‌های ییلاقی منطقه‌اند.<sup>[۵](https://ana.ir/fa/news/474295/)</sup>
 
-**ادامهٔ سفر در استان خراسان رضوی:** [باخرز](/city/bakharz/) · [بجستان](/city/bajestan/) · [بردسکن](/city/bardaskan/) · [تایباد](/city/taybad/)
+**ادامهٔ سفر در استان خراسان رضوی:** [باخرز](/city/bakharz/) · [بجستان](/city/bajestan/) · [بردسکن](/city/bardaskan/) · [تایباد](/city/taybad/) · [تربت جام](/city/torbatjam/)
 
 ## نقشه و لوکیشن
 
