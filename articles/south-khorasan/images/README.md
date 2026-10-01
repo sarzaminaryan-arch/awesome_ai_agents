@@ -4,9 +4,10 @@
 
 | فایل | منبع | نویسنده | تاریخ | مجوز | ابعاد |
 |---|---|---|---|---|---|
-| `birjand-aerial-candidate.jpg` | [Wikimedia Commons — Aerial view of Birjand City.jpg](https://commons.wikimedia.org/wiki/File:Aerial_view_of_Birjand_City.jpg) | Amorphagate | آگوست ۲۰۰۶ | CC BY-SA 3.0 (یا GFDL) | ۳۰۷۲×۲۳۰۴ |
+| `birjand.webp` | [Wikimedia Commons — Aerial view of Birjand City.jpg](https://commons.wikimedia.org/wiki/File:Aerial_view_of_Birjand_City.jpg) | Amorphagate | آگوست ۲۰۰۶ | CC BY-SA 3.0 (یا GFDL) | ۱۶۰۰×۹۰۰ (برش ۱۶:۹ و بهینه‌سازی از نسخهٔ ۳۰۷۲×۲۳۰۴) |
+| `birjand-aerial-candidate.jpg` | همان منبع (نسخهٔ اصلی خام برای آرشیو) | Amorphagate | آگوست ۲۰۰۶ | CC BY-SA 3.0 (یا GFDL) | ۳۰۷۲×۲۳۰۴ |
 
-**توضیح صحنه:** نمای واقعی هوایی از بخش شرقی شهر بیرجند؛ بلوارهای پاسداران، عدل، معلم و اباذر غفاری در قاب دیده می‌شود. تصویر واقعی (غیرکارتونی) است، اما برای «تصویر شاخص» بعداً باید برش ۱۶:۹ و بهینه‌سازی webp انجام شود.
+**توضیح صحنه (فایل شاخص `birjand.webp`):** نمای واقعی هوایی از بخش شرقی شهر بیرجند؛ بلوارهای پاسداران، عدل، معلم و اباذر غفاری، میدان و بافت شهری با درختان کاج در قاب دیده می‌شود. ناحیهٔ تاریک قاب پنجرهٔ هواپیما با برش ۲۸۸۰×۱۶۲۰ از نقطهٔ (۱۹۲، ۲۰۰) حذف شده و خروجی با Lanczos به ۱۶۰۰×۹۰۰ رسیده است. مسیر هدف در بستهٔ انتشار: `assets/featured/counties/south-khorasan/birjand.webp`.
 
 **الزام مجوز:** در استفادهٔ منتشرشده باید نام نویسنده و مجوز CC BY-SA 3.0 ذکر شود (Attribution + ShareAlike).
 
