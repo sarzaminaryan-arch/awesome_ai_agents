@@ -1,0 +1,78 @@
+{
+ "format": "1.0",
+ "built": "2026-10-01",
+ "counties": [
+  {
+   "title": "بیرجند",
+   "slug": "birjand",
+   "province": "south-khorasan",
+   "province_name": "خراسان جنوبی"
+  },
+  {
+   "title": "بشرویه",
+   "slug": "boshruyeh",
+   "province": "south-khorasan",
+   "province_name": "خراسان جنوبی"
+  },
+  {
+   "title": "خوسف",
+   "slug": "khusf",
+   "province": "south-khorasan",
+   "province_name": "خراسان جنوبی"
+  },
+  {
+   "title": "درمیان",
+   "slug": "darmiyan",
+   "province": "south-khorasan",
+   "province_name": "خراسان جنوبی"
+  },
+  {
+   "title": "زیرکوه",
+   "slug": "zirkuh",
+   "province": "south-khorasan",
+   "province_name": "خراسان جنوبی"
+  },
+  {
+   "title": "سرایان",
+   "slug": "sarayan",
+   "province": "south-khorasan",
+   "province_name": "خراسان جنوبی"
+  },
+  {
+   "title": "سربیشه",
+   "slug": "sarbisheh",
+   "province": "south-khorasan",
+   "province_name": "خراسان جنوبی"
+  },
+  {
+   "title": "طبس",
+   "slug": "tabas",
+   "province": "south-khorasan",
+   "province_name": "خراسان جنوبی"
+  },
+  {
+   "title": "فردوس",
+   "slug": "ferdows",
+   "province": "south-khorasan",
+   "province_name": "خراسان جنوبی"
+  },
+  {
+   "title": "قائنات",
+   "slug": "qayenat",
+   "province": "south-khorasan",
+   "province_name": "خراسان جنوبی"
+  },
+  {
+   "title": "نهبندان",
+   "slug": "nehbandan",
+   "province": "south-khorasan",
+   "province_name": "خراسان جنوبی"
+  },
+  {
+   "title": "عشق‌آباد",
+   "slug": "eshqabad",
+   "province": "south-khorasan",
+   "province_name": "خراسان جنوبی"
+  }
+ ]
+}

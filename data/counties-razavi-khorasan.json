@@ -1,0 +1,152 @@
+{
+  "province": "razavi-khorasan",
+  "province_name": "خراسان رضوی",
+  "generated": "2026-10-01",
+  "count": 6,
+  "counties": [
+    {
+      "title": "شهرستان باخرز؛ سرزمین درهٔ ارزنه و شهر گمشدهٔ مالین",
+      "slug": "bakharz",
+      "province": "razavi-khorasan",
+      "province_name": "استان خراسان رضوی",
+      "county": "شهرستان باخرز",
+      "order": 1,
+      "file": "content/cities/bakharz.md",
+      "html_file": "content/cities/bakharz.html",
+      "image": "assets/featured/counties/razavi-khorasan/bakharz.webp",
+      "image_basename": "images/bakharz.webp",
+      "image_alt": "نمای سینمایی هوایی از درهٔ سرسبز ارزنه با آبشار و رودخانه در میان صخره‌ها؛ تصویر شاخص شهرستان باخرز",
+      "focus_keywords": [
+        "شهرستان باخرز",
+        "دره ارزنه",
+        "شهر تاریخی مالین",
+        "آبشار ارزنه",
+        "قلعه‌نو علیا"
+      ],
+      "words": 2083,
+      "sources": 8,
+      "faq": 11,
+      "facts": 11
+    },
+    {
+      "title": "شهرستان بجستان؛ نگین کهن دروازهٔ کویر جنوب خراسان رضوی",
+      "slug": "bajestan",
+      "province": "razavi-khorasan",
+      "province_name": "استان خراسان رضوی",
+      "county": "شهرستان بجستان",
+      "order": 2,
+      "file": "content/cities/bajestan.md",
+      "html_file": "content/cities/bajestan.html",
+      "image": "assets/featured/counties/razavi-khorasan/bajestan.webp",
+      "image_basename": "images/bajestan.webp",
+      "image_alt": "نمای سینمایی هوایی از مسجد جامع آجری بجستان با گنبد و مناره در بافت کویری شهر؛ تصویر شاخص شهرستان بجستان",
+      "focus_keywords": [
+        "شهرستان بجستان",
+        "مسجد جامع بجستان",
+        "کویر یونسی",
+        "مرندیز",
+        "یونسی"
+      ],
+      "words": 1855,
+      "sources": 9,
+      "faq": 11,
+      "facts": 12
+    },
+    {
+      "title": "شهرستان بردسکن؛ دیار برج علی‌آباد و دروازهٔ ترشیز کهن",
+      "slug": "bardaskan",
+      "province": "razavi-khorasan",
+      "province_name": "استان خراسان رضوی",
+      "county": "شهرستان بردسکن",
+      "order": 3,
+      "file": "content/cities/bardaskan.md",
+      "html_file": "content/cities/bardaskan.html",
+      "image": "assets/featured/counties/razavi-khorasan/bardaskan.webp",
+      "image_basename": "images/bardaskan.webp",
+      "image_alt": "نمای سینمایی هوایی از برج آجری علی‌آباد کشمر در میان دشت؛ تصویر شاخص شهرستان بردسکن",
+      "focus_keywords": [
+        "شهرستان بردسکن",
+        "برج علی‌آباد",
+        "کشمر",
+        "آبشار درونه",
+        "برداسکن"
+      ],
+      "words": 2032,
+      "sources": 12,
+      "faq": 11,
+      "facts": 13
+    },
+    {
+      "title": "شهرستان تایباد؛ دیار عارفان و دروازهٔ شرقی خراسان رضوی",
+      "slug": "taybad",
+      "province": "razavi-khorasan",
+      "province_name": "استان خراسان رضوی",
+      "county": "شهرستان تایباد",
+      "order": 4,
+      "file": "content/cities/taybad.md",
+      "html_file": "content/cities/taybad.html",
+      "image": "assets/featured/counties/razavi-khorasan/taybad.webp",
+      "image_basename": "images/taybad.webp",
+      "image_alt": "نمای سینمایی هوایی از مزار و گنبدخانهٔ زین‌الدین ابوبکر تایبادی در بافت شهری؛ تصویر شاخص شهرستان تایباد",
+      "focus_keywords": [
+        "شهرستان تایباد",
+        "میل کرات",
+        "زین‌الدین ابوبکر تایبادی",
+        "دوغارون",
+        "مشهد ریزه"
+      ],
+      "words": 2075,
+      "sources": 13,
+      "faq": 11,
+      "facts": 13
+    },
+    {
+      "title": "شهرستان تربت جام؛ دیار عرفان، دوتار و خربزه",
+      "slug": "torbatjam",
+      "province": "razavi-khorasan",
+      "province_name": "استان خراسان رضوی",
+      "county": "شهرستان تربت جام",
+      "order": 5,
+      "file": "content/cities/torbatjam.md",
+      "html_file": "content/cities/torbatjam.html",
+      "image": "assets/featured/counties/razavi-khorasan/torbatjam.webp",
+      "image_basename": "images/torbatjam.webp",
+      "image_alt": "نمای سینمایی هوایی از گنبد فیروزه‌ای مجموعهٔ شیخ احمد جام در بافت تاریخی تربت جام؛ تصویر شاخص شهرستان تربت جام",
+      "focus_keywords": [
+        "تربت جام",
+        "شهرستان تربت جام",
+        "آرامگاه شیخ احمد جام",
+        "دوتار",
+        "شاه قاسم انوار"
+      ],
+      "words": 2284,
+      "sources": 10,
+      "faq": 12,
+      "facts": 14
+    },
+    {
+      "title": "شهرستان تربت حیدریه؛ پایتخت زعفران جهان و دیار عارفان",
+      "slug": "torbat-heydarieh",
+      "province": "razavi-khorasan",
+      "province_name": "استان خراسان رضوی",
+      "county": "شهرستان تربت حیدریه",
+      "order": 6,
+      "file": "content/cities/torbat-heydarieh.md",
+      "html_file": "content/cities/torbat-heydarieh.html",
+      "image": "assets/featured/counties/razavi-khorasan/torbat-heydarieh.webp",
+      "image_basename": "images/torbat-heydarieh.webp",
+      "image_alt": "نمای سینمایی هوایی از مزار و گنبد فیروزه‌ای قطب الدین حیدر در میان بافت شهری؛ تصویر شاخص شهرستان تربت حیدریه",
+      "focus_keywords": [
+        "شهرستان تربت حیدریه",
+        "قطب الدین حیدر",
+        "زعفران",
+        "بایگ",
+        "ابریشم"
+      ],
+      "words": 2139,
+      "sources": 11,
+      "faq": 11,
+      "facts": 13
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+ "batch": "south-khorasan",
+ "batch_id": "south-khorasan",
+ "label": "درون‌ریز شهرستان‌های استان خراسان جنوبی",
+ "data_version": "1.0.0",
+ "package_format": "1.0",
+ "built": "2026-10-01",
+ "province": {
+  "slug": "south-khorasan",
+  "name_fa": "استان خراسان جنوبی",
+  "term_name": "خراسان جنوبی"
+ },
+ "file": "south-khorasan.json",
+ "counties_count": 12,
+ "counties": [
+  {
+   "slug": "birjand",
+   "title": "شهرستان بیرجند",
+   "status": "article",
+   "word_count": 2924,
+   "faq": 10,
+   "sources_lines": 25,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "boshruyeh",
+   "title": "شهرستان بشرویه",
+   "status": "article",
+   "word_count": 2464,
+   "faq": 11,
+   "sources_lines": 15,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "khusf",
+   "title": "شهرستان خوسف",
+   "status": "article",
+   "word_count": 2058,
+   "faq": 11,
+   "sources_lines": 18,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "darmiyan",
+   "title": "شهرستان درمیان",
+   "status": "article",
+   "word_count": 1940,
+   "faq": 12,
+   "sources_lines": 14,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "zirkuh",
+   "title": "شهرستان زیرکوه",
+   "status": "article",
+   "word_count": 2037,
+   "faq": 11,
+   "sources_lines": 12,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "sarayan",
+   "title": "شهرستان سرایان",
+   "status": "article",
+   "word_count": 1580,
+   "faq": 11,
+   "sources_lines": 12,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "sarbisheh",
+   "title": "شهرستان سربیشه",
+   "status": "article",
+   "word_count": 1574,
+   "faq": 12,
+   "sources_lines": 12,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "tabas",
+   "title": "شهرستان طبس",
+   "status": "article",
+   "word_count": 2040,
+   "faq": 12,
+   "sources_lines": 15,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "ferdows",
+   "title": "شهرستان فردوس",
+   "status": "article",
+   "word_count": 1757,
+   "faq": 11,
+   "sources_lines": 16,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "qayenat",
+   "title": "شهرستان قائنات",
+   "status": "article",
+   "word_count": 1851,
+   "faq": 12,
+   "sources_lines": 13,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "nehbandan",
+   "title": "شهرستان نهبندان",
+   "status": "article",
+   "word_count": 1896,
+   "faq": 12,
+   "sources_lines": 13,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "eshqabad",
+   "title": "شهرستان عشق‌آباد",
+   "status": "article",
+   "word_count": 1655,
+   "faq": 12,
+   "sources_lines": 8,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  }
+ ]
+}

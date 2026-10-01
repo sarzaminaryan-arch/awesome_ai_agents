@@ -1,0 +1,113 @@
+{
+ "batch": "razavi-khorasan",
+ "batch_id": "razavi-khorasan",
+ "label": "درون‌ریز شهرستان‌های استان خراسان رضوی",
+ "data_version": "1.0.0",
+ "package_format": "1.0",
+ "built": "2026-10-01",
+ "province": {
+  "slug": "razavi-khorasan",
+  "name_fa": "استان خراسان رضوی",
+  "term_name": "خراسان رضوی"
+ },
+ "file": "razavi-khorasan.json",
+ "counties_count": 6,
+ "counties": [
+  {
+   "slug": "bakharz",
+   "title": "شهرستان باخرز",
+   "status": "article",
+   "word_count": 1650,
+   "faq": 11,
+   "sources_lines": 8,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "bajestan",
+   "title": "شهرستان بجستان",
+   "status": "article",
+   "word_count": 1446,
+   "faq": 11,
+   "sources_lines": 9,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "bardaskan",
+   "title": "شهرستان بردسکن",
+   "status": "article",
+   "word_count": 1563,
+   "faq": 11,
+   "sources_lines": 12,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "taybad",
+   "title": "شهرستان تایباد",
+   "status": "article",
+   "word_count": 1597,
+   "faq": 11,
+   "sources_lines": 13,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "torbatjam",
+   "title": "شهرستان تربت جام",
+   "status": "article",
+   "word_count": 1674,
+   "faq": 12,
+   "sources_lines": 10,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  },
+  {
+   "slug": "torbat-heydarieh",
+   "title": "شهرستان تربت حیدریه",
+   "status": "article",
+   "word_count": 1613,
+   "faq": 11,
+   "sources_lines": 11,
+   "publish_status": "DRAFT ONLY",
+   "markers": {
+    "review": 0,
+    "source_needed": 0,
+    "url_needed": 0,
+    "coming_soon": 0
+   },
+   "featured_image": true
+  }
+ ]
+}

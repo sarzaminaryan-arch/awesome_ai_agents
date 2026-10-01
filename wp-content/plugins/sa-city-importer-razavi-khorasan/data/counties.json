@@ -1,0 +1,42 @@
+{
+ "format": "1.0",
+ "built": "2026-10-01",
+ "counties": [
+  {
+   "title": "باخرز",
+   "slug": "bakharz",
+   "province": "razavi-khorasan",
+   "province_name": "خراسان رضوی"
+  },
+  {
+   "title": "بجستان",
+   "slug": "bajestan",
+   "province": "razavi-khorasan",
+   "province_name": "خراسان رضوی"
+  },
+  {
+   "title": "بردسکن",
+   "slug": "bardaskan",
+   "province": "razavi-khorasan",
+   "province_name": "خراسان رضوی"
+  },
+  {
+   "title": "تایباد",
+   "slug": "taybad",
+   "province": "razavi-khorasan",
+   "province_name": "خراسان رضوی"
+  },
+  {
+   "title": "تربت جام",
+   "slug": "torbatjam",
+   "province": "razavi-khorasan",
+   "province_name": "خراسان رضوی"
+  },
+  {
+   "title": "تربت حیدریه",
+   "slug": "torbat-heydarieh",
+   "province": "razavi-khorasan",
+   "province_name": "خراسان رضوی"
+  }
+ ]
+}

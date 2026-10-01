@@ -216,32 +216,39 @@ def build(province: str, make_zip: bool):
         "count": len(records),
         "counties": [{k: v for k, v in r.items() if not k.startswith("_")} for r in records],
     }
+    counties_prov_path = os.path.join(DATA, f"counties-{province}.json")
+    payload_prov_path = os.path.join(DATA, f"import-payload-{province}.json")
+    with open(counties_prov_path, "w", encoding="utf-8") as f:
+        json.dump(counties_json, f, ensure_ascii=False, indent=2)
+    with open(payload_prov_path, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=2)
     with open(os.path.join(DATA, "counties.json"), "w", encoding="utf-8") as f:
         json.dump(counties_json, f, ensure_ascii=False, indent=2)
     with open(os.path.join(DATA, "import-payload.json"), "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
     print(f"✓ content/cities/ — {len(records)} فایل MD + {len(records)} فایل HTML")
-    print(f"✓ data/counties.json — {len(records)} ردیف")
-    print(f"✓ data/import-payload.json — بستهٔ کامل")
+    print(f"✓ data/counties-{province}.json — {len(records)} ردیف")
+    print(f"✓ data/import-payload-{province}.json — بستهٔ کامل")
 
     if make_zip:
         zip_name = f"{province}-counties.zip"
         zip_path = os.path.join(DOWNLOADS, zip_name)
         src_images = os.path.join(ARTICLES, province, "images")
+        bundle_root = f"{province}-counties"
         with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as z:
             readme = os.path.join(ROOT, "downloads", "BUNDLE-README.txt")
             if os.path.exists(readme):
-                z.write(readme, "south-khorasan-counties/README.txt")
-            z.write(os.path.join(DATA, "counties.json"), "south-khorasan-counties/data/counties.json")
-            z.write(os.path.join(DATA, "import-payload.json"), "south-khorasan-counties/data/import-payload.json")
+                z.write(readme, f"{bundle_root}/README.txt")
+            z.write(counties_prov_path, f"{bundle_root}/data/counties.json")
+            z.write(payload_prov_path, f"{bundle_root}/data/import-payload.json")
             for r in records:
-                base = f"south-khorasan-counties/content/cities/{r['slug']}"
+                base = f"{bundle_root}/content/cities/{r['slug']}"
                 z.write(os.path.join(CONTENT_CITIES, f"{r['slug']}.md"), base + ".md")
                 z.write(os.path.join(CONTENT_CITIES, f"{r['slug']}.html"), base + ".html")
-                z.write(os.path.join(src_images, f"{r['slug']}.webp"), f"south-khorasan-counties/images/{r['slug']}.webp")
+                z.write(os.path.join(src_images, f"{r['slug']}.webp"), f"{bundle_root}/images/{r['slug']}.webp")
             plugin = os.path.join(ROOT, "wordpress", "sarzamin-counties-importer.php")
             if os.path.exists(plugin):
-                z.write(plugin, "south-khorasan-counties/wordpress/sarzamin-counties-importer.php")
+                z.write(plugin, f"{bundle_root}/wordpress/sarzamin-counties-importer.php")
         size = os.path.getsize(zip_path)
         print(f"✓ downloads/{zip_name} — {size/1024:.0f} KB")
     return 0
