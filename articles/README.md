@@ -39,3 +39,16 @@ python3 articles/_filter/check.py articles/south-khorasan/01-birjand.md
 ## گام بعدی
 
 پس از تأیید کارفرما: بسته‌بندی خام (`content/cities/<slug>.md`) + اسکریپت ایمپورتر (data/counties.json) + zip در `downloads/`؛ سپس مجموعهٔ خراسان رضوی.
+
+## بستهٔ ورود (آماده) — ۱۴۰۵/۰۷/۰۹
+
+- `content/cities/` — ۱۲ فایل خام `.md` + ۱۲ فایل تبدیل‌شدهٔ `.html`
+- `data/counties.json` — فهرست ماشین‌خوان شهرستان‌ها؛ `data/import-payload.json` — بستهٔ کامل متنی
+- `scripts/import_counties.py` (بازبینی/ساخت) و `scripts/md2html.py` (مبدل)
+- `wordpress/sarzamin-counties-importer.php` — پلاگین وردپرس (CPT `city`، تاکسونومی `province`)
+- `downloads/south-khorasan-counties.zip` — بستهٔ نهایی (~۳٫۶MB، ۴۰ فایل)
+
+```bash
+python3 scripts/import_counties.py check --province south-khorasan
+python3 scripts/import_counties.py build --province south-khorasan --zip
+```

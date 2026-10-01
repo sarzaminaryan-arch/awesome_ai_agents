@@ -30,7 +30,6 @@ Temporary Items
 build/
 develop-eggs/
 dist/
-downloads/
 eggs/
 .eggs/
 lib/
@@ -188,3 +187,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# پوشهٔ downloads/ — بسته‌های ورود سرزمین آریان در مخزن نگه‌داری می‌شوند (از الگوی پایتون خارج شد)
+!downloads/
